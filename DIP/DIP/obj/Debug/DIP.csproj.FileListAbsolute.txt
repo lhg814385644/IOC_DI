@@ -1,0 +1,13 @@
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\DIP.exe.config
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\DIP.exe
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\DIP.pdb
+C:\LearnSpase\IOC&DI\DIP\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
+C:\LearnSpase\IOC&DI\DIP\DIP\obj\Debug\DIP.exe
+C:\LearnSpase\IOC&DI\DIP\DIP\obj\Debug\DIP.pdb
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.IBLL.dll
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.IDAL.dll
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.IBLL.pdb
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.IDAL.pdb
+C:\LearnSpase\IOC&DI\DIP\DIP\obj\Debug\DIP.csproj.CopyComplete
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.Factory.dll
+C:\LearnSpase\IOC&DI\DIP\DIP\bin\Debug\Lhg.Factory.pdb

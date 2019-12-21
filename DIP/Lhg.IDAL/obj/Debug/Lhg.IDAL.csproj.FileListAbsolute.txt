@@ -1,0 +1,5 @@
+C:\LearnSpase\IOC&DI\DIP\Lhg.IDAL\bin\Debug\Lhg.IDAL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.IDAL\bin\Debug\Lhg.IDAL.pdb
+C:\LearnSpase\IOC&DI\DIP\Lhg.IDAL\obj\Debug\Lhg.IDAL.csprojAssemblyReference.cache
+C:\LearnSpase\IOC&DI\DIP\Lhg.IDAL\obj\Debug\Lhg.IDAL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.IDAL\obj\Debug\Lhg.IDAL.pdb

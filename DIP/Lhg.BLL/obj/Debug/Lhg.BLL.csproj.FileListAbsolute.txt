@@ -1,0 +1,10 @@
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.BLL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.BLL.pdb
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\obj\Debug\Lhg.BLL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\obj\Debug\Lhg.BLL.pdb
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.IBLL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.IBLL.pdb
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\obj\Debug\Lhg.BLL.csprojAssemblyReference.cache
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\obj\Debug\Lhg.BLL.csproj.CopyComplete
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.IDAL.dll
+C:\LearnSpase\IOC&DI\DIP\Lhg.BLL\bin\Debug\Lhg.IDAL.pdb
